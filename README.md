@@ -1,6 +1,6 @@
 # 🛡️ **FaceGuard: AI‑Based Facial Recognition Access Control System**
 
-A deep‑learning–powered facial recognition system designed to secure high‑sensitivity environments by verifying employee identity before granting access. Built as part of the ELE8100 CyberAI coursework at Queen’s University Belfast, this project demonstrates how convolutional neural networks can be applied to real‑world cybersecurity challenges.
+A deep‑learning–powered facial recognition system designed to secure high‑sensitivity environments by verifying employee identity before granting access.This project demonstrates how convolutional neural networks can be applied to real‑world cybersecurity challenges.
 ---
 
 ## **Project Overview**
@@ -89,12 +89,12 @@ This simulates a real‑world access‑control workflow.
 
 The notebook includes at least 5 test cases:
 
-- ✔️ CEO (ID 0) — Authorized  
-- ✔️ CTO (ID 5) — Authorized  
-- ✔️ System Administrator (ID 10) — Authorized  
-- ❌ Employee 3 (ID 3) — Unauthorized  
-- ❌ Employee 15 (ID 15) — Unauthorized  
-- ❌ Employee 25 (ID 25) — Unauthorized  
+- CEO (ID 0) — Authorized  
+- CTO (ID 5) — Authorized  
+- System Administrator (ID 10) — Authorized  
+- Employee 3 (ID 3) — Unauthorized  
+- Employee 15 (ID 15) — Unauthorized  
+- Employee 25 (ID 25) — Unauthorized  
 
 Each test displays a visual decision panel.
 ---
@@ -111,7 +111,7 @@ Each test displays a visual decision panel.
 Dataset sourced via KaggleHub or Canvas.
 ---
 
-## 🛠️ **Technologies Used**
+##**Technologies Used**
 
 - Python  
 - PyTorch  
