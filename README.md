@@ -149,18 +149,11 @@ FaceGuard/
 
 ## Academic Context
 This project was developed for:
-
-ELE8100 – CyberAI  
-MSc Applied Cyber Security  
-Queen’s University Belfast  
+ELE8100- CyberAI 
+MSc Applied CyberSecurity( Queen's University Belfast)
 Academic Year 2025/26
 ---
 
 ## **License**
-
 This project is for academic use.  
 If you wish to reuse or extend it, please credit the original author.
-
- A **viva preparation cheat sheet**  
-
-Just tell me what you want next.
